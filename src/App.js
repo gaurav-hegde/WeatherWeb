@@ -1,5 +1,5 @@
 import "./App.css";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 export default function App() {
   const [city, setCity] = useState("Chennai");
